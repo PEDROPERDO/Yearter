@@ -69,14 +69,9 @@
 
 ### ⛳ Final
 * Commuter Line Bogor, Cikarang, Rangkas Bitung Are Most Busiest Commuter Line, Why ?
-* Many Employees in Jakarta Are From Jabodetabek Region (Inside / Out Jakarta)
-* Train Trip is Mostly Used to Connect Jabodetabek Area + Banten, From All Plot and Result
-* Jakarta, Bogor, Bekasi Always Show Up
-* Manggarai Statiun is "Favorite Station" Due to High Total Trip to Manggarai
-  
-Trains are One of the Vital Modes of Transportation in the Jabodetabek area, especially Bogor - Jakarta and between Jakarta Regions,
-Stations such as Manggarai, Tanah Abang are Two of the 100 Stations That Will be Experiencing 'Rush Hours' at Certain Moment or Hour,
-Example: Manggarai, at Working Hours (Commuting), Tanah Abang at Eid al-Fitr
-It is important for the Government to Ensure that there are no delays, While Collaborating With People to Maintain Station and Train Facilities
+* Many Employees in Jakarta Are From Jabodetabek Region (Outside Jakarta)
+* Train Trip is Mostly Used to Connect Jakarta and Greater Area, This Statement From Various Plot That Available
+* Jakarta, Bogor, Bekasi (Outside Jakarta) are Top Three Most Busiest City
+* Manggarai Statiun is "Favorite Station" Due to High Total Trip to Manggarai and Known Have Highly Crowded Passengers.
 
 ### 🧨 More on [Notebook](Year.ipynb) And [Google Data Studio](https://lookerstudio.google.com/reporting/47b8280f-3964-4cb5-9b37-3602a4936446)
